@@ -2,9 +2,7 @@
 {
     public enum TipoCliente
     {
-        Comum,
-        Associado,
-        Especial
+        Comum, Associado, Especial
     };
     class Pedido
     {
