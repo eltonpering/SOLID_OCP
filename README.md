@@ -1,4 +1,4 @@
-# SOLID_OCP
+# SOLID_OCP - Open Closed Principle
 SOLID CONCEPTS
 
 
